@@ -1,0 +1,10 @@
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Form1.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Resources.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.vbproj.GenerateResource.Cache
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
