@@ -1,0 +1,10 @@
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe.config
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.pdb
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\bin\Debug\SoftwareSales.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Form1.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.Resources.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.vbproj.GenerateResource.Cache
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 6 & 7\SoftwareSales\SoftwareSales\obj\Debug\SoftwareSales.pdb

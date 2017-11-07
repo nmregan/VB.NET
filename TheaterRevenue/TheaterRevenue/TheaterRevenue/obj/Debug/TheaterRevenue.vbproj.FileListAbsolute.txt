@@ -1,0 +1,14 @@
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.exe.config
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.pdb
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.Form1.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.Resources.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.vbproj.GenerateResource.Cache
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 4 & 5\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.pdb
+C:\Users\nmregan\Desktop\CState\Fall 2016\vb.NET\Week 4 & 5\Assignment6_TheaterRevenue_NR_4\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.exe.config
+C:\Users\nmregan\Desktop\CState\Fall 2016\vb.NET\Week 4 & 5\Assignment6_TheaterRevenue_NR_4\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.exe
+C:\Users\nmregan\Desktop\CState\Fall 2016\vb.NET\Week 4 & 5\Assignment6_TheaterRevenue_NR_4\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.xml
+C:\Users\nmregan\Desktop\CState\Fall 2016\vb.NET\Week 4 & 5\Assignment6_TheaterRevenue_NR_4\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.pdb

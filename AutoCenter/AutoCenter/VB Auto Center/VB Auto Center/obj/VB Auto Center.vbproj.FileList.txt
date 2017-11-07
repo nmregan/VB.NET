@@ -1,0 +1,10 @@
+bin\Debug\VB Auto Center.exe
+bin\Debug\VB Auto Center.pdb
+bin\Debug\VB Auto Center.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VB_Auto_Center.frmVBAuto.resources
+obj\Debug\VB_Auto_Center.Resources.resources
+obj\Debug\VB Auto Center.vbproj.GenerateResource.Cache
+obj\Debug\VB Auto Center.exe
+obj\Debug\VB Auto Center.xml
+obj\Debug\VB Auto Center.pdb
