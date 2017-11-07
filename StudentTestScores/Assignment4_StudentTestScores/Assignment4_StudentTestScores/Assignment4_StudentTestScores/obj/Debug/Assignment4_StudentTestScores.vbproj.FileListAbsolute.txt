@@ -1,0 +1,28 @@
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.exe.config
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.exe
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.pdb
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.xml
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.Form1.resources
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.Resources.resources
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.vbproj.GenerateResource.Cache
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.exe
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.xml
+C:\Users\nmregan\AppData\Local\Temporary Projects\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.pdb
+C:\Users\nmregan\VBNet2\Assignment4_StudentTestScores\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.exe.config
+C:\Users\nmregan\VBNet2\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.exe
+C:\Users\nmregan\VBNet2\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.xml
+C:\Users\nmregan\VBNet2\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\bin\Debug\Assignment4_StudentTestScores.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.Form1.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.Resources.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week3\Assignment4_StudentTestScores (2)\Assignment4_StudentTestScores\Assignment4_StudentTestScores\Assignment4_StudentTestScores\obj\Debug\Assignment4_StudentTestScores.vbproj.GenerateResource.Cache
