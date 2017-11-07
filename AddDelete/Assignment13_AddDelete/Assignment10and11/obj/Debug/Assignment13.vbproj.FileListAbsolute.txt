@@ -1,0 +1,11 @@
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\bin\Debug\Assignment10and11.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\obj\Debug\Assignment10and11.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\obj\Debug\Assignment10and11.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\obj\Debug\Assignment10and11.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\bin\Debug\Assignment10and11.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\bin\Debug\Assignment10and11.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\bin\Debug\Assignment10and11.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\obj\Debug\Assignment10and11.frmAddAuto.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\obj\Debug\Assignment10and11.frmMain.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\obj\Debug\Assignment10and11.Resources.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week11\Assignment13_AddDelete\Assignment10and11\obj\Debug\Assignment13.vbproj.GenerateResource.Cache
