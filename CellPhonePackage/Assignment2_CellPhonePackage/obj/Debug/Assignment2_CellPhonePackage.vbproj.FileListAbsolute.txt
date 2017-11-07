@@ -1,0 +1,13 @@
+C:\Users\nmregan\Desktop\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\bin\Debug\Assignment2_CellPhonePackage.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\bin\Debug\Assignment2_CellPhonePackage.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\bin\Debug\Assignment2_CellPhonePackage.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\bin\Debug\Assignment2_CellPhonePackage.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\bin\Debug\Assignment2_CellPhonePackage.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.frmFamilyPlan.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.frmIndividualPlan.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.frmMain.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.Resources.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.vbproj.GenerateResource.Cache
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week1&2\Assignment2_CellPhonePackage\Assignment2_CellPhonePackage\obj\Debug\Assignment2_CellPhonePackage.pdb
