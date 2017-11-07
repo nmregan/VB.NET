@@ -1,0 +1,10 @@
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\bin\Debug\Assignment15_SumOfNumbers.exe.config
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\bin\Debug\Assignment15_SumOfNumbers.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\bin\Debug\Assignment15_SumOfNumbers.pdb
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\bin\Debug\Assignment15_SumOfNumbers.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\obj\Debug\Assignment15_SumOfNumbers.Form1.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\obj\Debug\Assignment15_SumOfNumbers.Resources.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\obj\Debug\Assignment15_SumOfNumbers.vbproj.GenerateResource.Cache
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\obj\Debug\Assignment15_SumOfNumbers.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\obj\Debug\Assignment15_SumOfNumbers.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 11\Assignment15_SumOfNumbers\Assignment15_SumOfNumbers\obj\Debug\Assignment15_SumOfNumbers.pdb
