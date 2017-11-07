@@ -1,0 +1,11 @@
+C:\Users\nmregan\Desktop\Summer 2017\NET2\Week1&2\Assignment8_CustomerInformation\Assignment8_CustomerInformation\bin\Debug\Assignment8_CustomerInformation.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\bin\Debug\Assignment8_CustomerInformation.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\bin\Debug\Assignment8_CustomerInformation.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\bin\Debug\Assignment8_CustomerInformation.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\bin\Debug\Assignment8_CustomerInformation.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\obj\Debug\Assignment8_CustomerInformation.Form1.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\obj\Debug\Assignment8_CustomerInformation.Resources.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\obj\Debug\Assignment8_CustomerInformation.vbproj.GenerateResource.Cache
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\obj\Debug\Assignment8_CustomerInformation.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\obj\Debug\Assignment8_CustomerInformation.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment8_CustomerInformation\Assignment8_CustomerInformation\obj\Debug\Assignment8_CustomerInformation.pdb

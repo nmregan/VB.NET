@@ -1,0 +1,15 @@
+C:\Users\nmregan\Desktop\Summer 2017\NET2\Week1&2\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\bin\Debug\Assignment6_CarpetPriceCalculator.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\bin\Debug\Assignment6_CarpetPriceCalculator.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\bin\Debug\Assignment6_CarpetPriceCalculator.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\bin\Debug\Assignment6_CarpetPriceCalculator.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\bin\Debug\Assignment6_CarpetPriceCalculator.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.Form1.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.Resources.resources
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.vbproj.GenerateResource.Cache
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week5\Assignment6_CarpetPriceCalculator\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.pdb
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\bin\Debug\Assignment6_CarpetPriceCalculator.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.pdb

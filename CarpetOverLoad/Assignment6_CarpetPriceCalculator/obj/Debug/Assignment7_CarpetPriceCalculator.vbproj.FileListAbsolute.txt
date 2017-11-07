@@ -1,0 +1,4 @@
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\bin\Debug\Assignment6_CarpetPriceCalculator.exe.config
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.exe
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.xml
+C:\Users\nmregan\Desktop\CState\Summer 2017\NET2\Week6\Assignment7b_CarpetOverLoad\Assignment6_CarpetPriceCalculator\obj\Debug\Assignment6_CarpetPriceCalculator.pdb
