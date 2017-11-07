@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Assignment3MathTutorApplication", "Assignment3MathTutorApplication\Assignment3MathTutorApplication.vbproj", "{FAF1C9F4-AF12-4882-8385-CD977B52107D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF1C9F4-AF12-4882-8385-CD977B52107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF1C9F4-AF12-4882-8385-CD977B52107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF1C9F4-AF12-4882-8385-CD977B52107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF1C9F4-AF12-4882-8385-CD977B52107D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
