@@ -1,0 +1,10 @@
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\bin\Debug\MilesPerGallonCalc_NR.exe.config
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\bin\Debug\MilesPerGallonCalc_NR.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\bin\Debug\MilesPerGallonCalc_NR.pdb
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\bin\Debug\MilesPerGallonCalc_NR.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\obj\Debug\MilesPerGallonCalc_NR.Form1.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\obj\Debug\MilesPerGallonCalc_NR.Resources.resources
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\obj\Debug\MilesPerGallonCalc_NR.vbproj.GenerateResource.Cache
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\obj\Debug\MilesPerGallonCalc_NR.exe
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\obj\Debug\MilesPerGallonCalc_NR.xml
+C:\Users\nmreg\Desktop\Fall 2016\VB.Net\Week 3\MilesPerGallonCalc_NR\MilesPerGallonCalc_NR\obj\Debug\MilesPerGallonCalc_NR.pdb
